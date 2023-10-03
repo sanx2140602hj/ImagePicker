@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Veracruz", 
+        "lat": 19.18095, 
+        "lng": -96.1429
+    },
+    {
+        "label": "Xalapa", 
+        "lat": 19.5438, 
+        "lng": -96.9102
+    },
+    {
+        "label": "Coatzacoalcos", 
+        "lat": 18.1393, 
+        "lng": -94.4286
+    },
+    {
+        "label": "Córdoba", 
+        "lat": 18.8841, 
+        "lng": -96.9382
+    }
+]
