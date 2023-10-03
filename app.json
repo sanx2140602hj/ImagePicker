@@ -15,7 +15,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "La app requiere permiso para utilizar el micrófono y grabar audio.",
+        "NSPhotoLibraryUsageDescription": "Para compartir fotos con tus amigos, la app necesita acceso a tu galería de imágenes.",
+        "NSCameraUsageDescription": "Para tomar fotografías, la app necesita autorización para utilizar la cámara del dispositivo."
+      }
     },
     "android": {
       "adaptiveIcon": {
